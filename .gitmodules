@@ -1,4 +1,4 @@
 [submodule "freeglut"]
 	path = freeglut
-	url = git@github.com:FreeGLUTProject/freeglut.git
+	url = https://github.com/FreeGLUTProject/freeglut.git
 	branch = v3.4.0
